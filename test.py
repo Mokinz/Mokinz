@@ -1,10 +1,3 @@
-import math
-import os
-import sys
+message = "Hello World"
 
-import requests
-
-name = input("Your name? ")
-print("Hello ", name)
-
-print("Hello")
+print(message)
